@@ -1,12 +1,12 @@
 let users = {
     1: {
         id: '1',
-        username: 'Robin Wieruch',
+        username: 'Hello User1',
         messageIds: [1],
     },
     2: {
         id: '2',
-        username: 'Dave Davids',
+        username: 'Hello User 1',
         messageIds: [2],
     },
 };
@@ -14,12 +14,12 @@ let users = {
 let messages = {
     1: {
         id: '1',
-        text: 'Hello World',
+        text: 'Hello World 1',
         userId: '1',
     },
     2: {
         id: '2',
-        text: 'By World',
+        text: 'By World 2',
         userId: '2',
     },
 };
